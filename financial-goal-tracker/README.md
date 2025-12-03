@@ -4,6 +4,11 @@
 
 An intelligent LLM-powered financial planning application that helps users achieve their investment goals through personalized, risk-adjusted asset allocation strategies. Powered by Perplexity LLM and built for compliance with SEBI investment guidelines.
 
+## 🔗 Demo Link
+
+  - [CLICK HERE](https://financial-goal-tracker-m88wmfwnxqk5x6ude6duvi.streamlit.app/)
+
+
 ## ✨ Features
 
 - **Multi-Asset Class Analysis** - Equity, Debt, Gold, Silver, Crude Oil, Real Estate allocation
@@ -106,13 +111,7 @@ Powered by **Perplexity's sonar-pro** model for:
 - [Asset Allocation Strategy Guide](https://www.sebi.gov.in/)
 - [Tax Optimization for Investments](https://www.incometax.gov.in/)
 
-## 🔗 Demo Link
 
-**Coming Soon** - The app will be deployed on Streamlit Cloud
-
-## 📝 License
-
-MIT License - See main repository for details
 
 ## 👤 Author
 
