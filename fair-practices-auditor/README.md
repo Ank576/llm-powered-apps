@@ -4,6 +4,11 @@
 
 An intelligent LLM-powered application that audits loan agreements against RBI's Fair Practices Code standards, ensuring compliance and protecting borrower interests.
 
+## 🔗 Demo Link
+
+[CLICK HERE](https://fair-practices-auditor-dzvt2uid5mjeq9v8qizr8h.streamlit.app/)
+
+
 ## ✨ Features
 
 - **Processing Fee Audit** - Validates processing fees don't exceed 1% of principal
@@ -96,9 +101,6 @@ Powered by **Perplexity's sonar-pro** model for:
 - [RBI Circular on Lending](https://www.rbi.org.in/Scripts/NotificationUser.aspx)
 - [Loan Agreement Standards](https://www.rbi.org.in/)
 
-## 🔗 Demo Link
-
-**Coming Soon** - The app will be deployed on Streamlit Cloud
 
 ## 📝 License
 
