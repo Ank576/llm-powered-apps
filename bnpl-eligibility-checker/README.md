@@ -4,6 +4,9 @@
 
 An intelligent LLM-powered application that instantly evaluates customer eligibility for BNPL financing based on RBI Digital Lending Guidelines, CIBIL scores, and lending regulations.
 
+## 🔗 Demo Link
+- [CLICK HERE](https://bnpl-eligibility-checker-mev79gc9pmstrszvhsmufx.streamlit.app/)
+
 ## ✨ Features
 
 - **CIBIL Score-Based Eligibility** - Instant eligibility determination (threshold ≥1500)
@@ -98,9 +101,6 @@ Powered by **Perplexity's sonar-pro** model for:
 - [RBI Master Circular on Lending](https://www.rbi.org.in/Scripts/NotificationUser.aspx)
 - [BNPL Regulations](https://www.rbi.org.in/)
 
-## 🔗 Demo Link
-
-**Coming Soon** - The app will be deployed on Streamlit Cloud
 
 ## 📝 License
 
