@@ -58,6 +58,19 @@ This monorepo contains **4 production-ready LLM applications** designed for mode
 
 ---
 
+### 4. 🏦 [Loan Against Asset Checker](./loan-against-asset-checker)
+
+**RBI-compliant collateral valuation and LTV-based loan assessment**
+
+- 💰 Gold loan validation (LTV ≤75%, purity ≥99.5%)
+- 🏠 Property mortgage assessment (LTV ≤80%, value estimation)
+- 📈 Share collateral analysis (LTV ≤50%, SEBI compliance)
+- 🤖 LLM-powered valuation & market insights
+- 📋 Real-time LTV calculations & approval status
+- ✅ Regulatory compliance documentation
+
+**Rules:** RBI Master Circular on Gold Loans, Property Valuation Guidelines, SEBI Share Pledge Norms
+
 
 
 ## 🚀 Quick Start
