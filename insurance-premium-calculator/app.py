@@ -240,7 +240,7 @@ def main() -> None:
             st.write(result["irda_compliance_notes"])
 
         st.info(
-            "This tool provides indicative estimates for learning and planning only. "
+            "This tool is build by Ankit Saxena which provides indicative estimates for learning and planning only. "
             "Actual premiums, terms, and benefits depend on the insurer's underwriting policies, "
             "medical tests, disclosures in the proposal form, and IRDA regulations."
         )
