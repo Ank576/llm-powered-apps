@@ -11,7 +11,7 @@
 
 ## 💪 What's Inside?
 
-This monorepo contains **3 production-ready LLM applications** designed for modern financial operations:
+This monorepo contains **4 production-ready LLM applications** designed for modern financial operations:
 
 ### 1. **💰 [Financial Goal Tracker](./financial-goal-tracker)**
 
@@ -57,6 +57,8 @@ This monorepo contains **3 production-ready LLM applications** designed for mode
 **Rules:** RBI Circular on Fair Practices Code, Penalty guidelines
 
 ---
+
+
 
 ## 🚀 Quick Start
 
