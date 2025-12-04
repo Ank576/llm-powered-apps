@@ -11,7 +11,7 @@
 
 ## What's Inside?
 
-This monorepo contains **4 production-ready LLM applications** designed for modern financial operations:
+This monorepo contains **5 production-ready LLM applications** designed for modern financial operations:
 
 ### 1. ** [Financial Goal Tracker](./financial-goal-tracker)**
 
@@ -72,6 +72,19 @@ This monorepo contains **4 production-ready LLM applications** designed for mode
 **Rules:** RBI Master Circular on Gold Loans, Property Valuation Guidelines, SEBI Share Pledge Norms
 
 
+### 5. 🛡️ **[Insurance Premium Calculator](./insurance-premium-calculator)**
+
+**IRDA-compliant insurance premium estimation and tax benefit calculator**
+
+- 💰 Term, life, and health insurance premium estimation
+- 👨‍👩‍👧‍👦 Profile-based recommendations (age, health, lifestyle, family)
+- 📊 Multi-scenario planning (individual, family floater, senior citizen)
+- 🏛️ Tax benefit calculations (Section 80D & 80C)
+- 📋 IRDA compliance notes (proposal form, medical underwriting, free-look period)
+- 🎯 JSON-structured output with insurer recommendations
+
+**Compliance:** IRDA Guidelines, Income Tax Act Sections 80C & 80D
+
 
 ## 🚀 Quick Start
 
@@ -105,6 +118,10 @@ streamlit run bnpl-eligibility-checker/app.py
 
 # Fair Practices Auditor
 streamlit run fair-practices-auditor/app.py
+
+#  
+Insurance Premium Calculator  
+streamlit run insurance-premium-calculator/app.py
 ```
 
 ---
@@ -158,6 +175,11 @@ llm-powered-apps/
 │   ├── app.py                 # Main Streamlit app
 │   ├── requirements.txt       # Dependencies
 │   └── README.md              # Documentation
+|
+├─ insurance-premium-calculator/
+|   ├─ app.py                  # Main Streamlit app
+|   ├─ requirements.txt      # Dependencies
+|   └─ README.md              # Documentation
 │
 ├── CONSOLIDATED_README.md # Full technical guide
 ├── README.md              # This file
@@ -256,7 +278,6 @@ All apps use **Perplexity's sonar-pro model** for:
 
 **Upcoming in Pipeline:**
 - 🏦 **Home Loan Pre-Qualifier** - RBI-compliant mortgage eligibility
-- 📕 **Insurance Coverage Analyzer** - IRDA-compliant policy matcher
 - 💳 **UPI Transaction Auditor** - NPCI compliance checker
 - 📊 **Portfolio Rebalancer** - Tax-loss harvesting optimizer
 - 📋 **Debt Consolidation Planner** - Loan optimization tool
