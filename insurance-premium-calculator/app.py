@@ -136,7 +136,7 @@ def main() -> None:
     st.title("🛡️ IRDA-Compliant Insurance Premium Estimator")
     st.write(
         "Indicative premium estimation for life, term, and health insurance in India. "
-        "For educational purposes only. Not a substitute for advice from IRDA-registered entities."
+        "Created with 🧡 by Ankit Saxena. For educational purposes only. Not a substitute for advice from IRDA-registered entities."
     )
 
     with st.sidebar:
