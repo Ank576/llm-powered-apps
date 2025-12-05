@@ -85,24 +85,17 @@ This monorepo contains *65 production-ready LLM applications** designed for mode
 
 **Compliance:** IRDA Guidelines, Income Tax Act Sections 80C & 80D
 
-### 6. 📊 **[Credit Optimiser](./credit-optimiser)** (Coming Soon)
+### 6. 📊 **[Credit Optimiser](./credit-optimiser)** 
 
 **AI-powered credit score enhancement and creditworthiness analyzer**
 
-*   •  
-    💳 Real-time credit score analysis & improvement suggestions
-*   •  
-    📈 Personalized financial wellness recommendations
-*   •  
-    🎯 Payment behavior optimization strategies
-*   •  
-    🔍 Credit inquiry impact analysis
-*   •  
-    💰 Debt-to-income ratio optimization
-*   •  
-    🏦 Bank-aligned improvement roadmap
-*   •  
-    📊 JSON-structured credit insights
+*    💳 Real-time credit score analysis & improvement suggestions
+*    📈 Personalized financial wellness recommendations
+*    🎯 Payment behavior optimization strategies
+*    🔍 Credit inquiry impact analysis
+*    � Debt-to-income ratio optimization
+*    🏦 Bank-aligned improvement roadmap
+*    📊 JSON-structured credit insights
 
 **Compliance:** RBI Digital Lending Guidelines, Credit Information Bureau (India) Limited (CIBIL) standards
 
