@@ -1,6 +1,7 @@
 # 🔄 Sector Rotation Screener - AI-Powered Portfolio Recommendations
 
 **An intelligent stock screening tool that combines technical analysis with LLM-powered AI reasoning to identify optimal sector rotation opportunities in the Indian stock market.**
+**For Educational Purpose Only. Created by Ankit Saxena with 🧡.**
 
 ---
 
