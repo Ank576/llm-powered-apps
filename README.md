@@ -112,6 +112,29 @@
 **Compliance:** Educational fintech tool for value investing learning
 
 
+### 8. 🔄 [Sector Rotation Screener](https://github.com/Ank576/llm-powered-apps/blob/main/sector-rotation-screener)**
+
+**AI-powered sector rotation analysis and portfolio optimization tool**
+
+*   •  
+    📊 Real-time NSE sector momentum analysis (8 sectors: Tech, Pharma, FMCG, Auto, Banking, Energy, Utilities, Real Estate)
+*   •  
+    🔍 Technical indicators (RSI, 20-day/50-day momentum calculations)
+*   •  
+    🤖 LLM-powered sector rotation recommendations (From → To)
+*   •  
+    📈 Correlation matrix for diversification analysis
+*   •  
+    💡 AI-generated reasoning with confidence scores
+*   •  
+    📋 Risk assessment & portfolio concentration alerts
+*   •  
+    ⚡ Fallback technical analysis if LLM unavailable
+
+**Features:** Market condition analysis (Bull/Bear/Sideways), Risk profile filtering (Conservative/Moderate/Aggressive), Sector interdependency analysis, JSON-structured output
+
+**Compliance:** Educational fintech tool for portfolio management learning
+
 ## 🚀 Quick Start
 
 ### Prerequisites
