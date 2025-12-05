@@ -11,7 +11,7 @@
 
 ## What's Inside?
 
-+68 production-ready LLM applications
+production-ready LLM applications
 
 **Smart investment planning with AI-powered asset allocation**
 
