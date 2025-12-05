@@ -11,7 +11,7 @@
 
 ## What's Inside?
 
-This monorepo contains **5 production-ready LLM applications** designed for modern financial operations:
+This monorepo contains *65 production-ready LLM applications** designed for modern financial operations:
 
 ### 1. ** [Financial Goal Tracker](./financial-goal-tracker)**
 
@@ -84,6 +84,27 @@ This monorepo contains **5 production-ready LLM applications** designed for mode
 - 🎯 JSON-structured output with insurer recommendations
 
 **Compliance:** IRDA Guidelines, Income Tax Act Sections 80C & 80D
+
+### 6. 📊 **[Credit Optimiser](./credit-optimiser)** (Coming Soon)
+
+**AI-powered credit score enhancement and creditworthiness analyzer**
+
+*   •  
+    💳 Real-time credit score analysis & improvement suggestions
+*   •  
+    📈 Personalized financial wellness recommendations
+*   •  
+    🎯 Payment behavior optimization strategies
+*   •  
+    🔍 Credit inquiry impact analysis
+*   •  
+    💰 Debt-to-income ratio optimization
+*   •  
+    🏦 Bank-aligned improvement roadmap
+*   •  
+    📊 JSON-structured credit insights
+
+**Compliance:** RBI Digital Lending Guidelines, Credit Information Bureau (India) Limited (CIBIL) standards
 
 
 ## 🚀 Quick Start
