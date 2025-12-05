@@ -1,0 +1,3 @@
+# Chart Pattern Analyzer - App #10
+# LLM-Powered Technical Analysis Tool
+# Coming soon...
