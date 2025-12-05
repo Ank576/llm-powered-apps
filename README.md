@@ -13,6 +13,8 @@
 
 production-ready LLM applications
 
+### 1. **[Financial Goal Tracker](./financial-goal-tracker)**
+
 **Smart investment planning with AI-powered asset allocation**
 
 - 🏸 Multi-asset class analysis (Equity, Debt, Gold, Silver, Crude Oil, Real Estate)
