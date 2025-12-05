@@ -1,0 +1,31 @@
+# Value Stock Finder - Requirements
+# Educational stock screening app with Graham Number valuation
+
+# Core dependencies
+streamlit==1.38.0
+python-dotenv==1.0.0
+
+# Financial data & analysis
+yfinance==0.2.32
+pandas==2.1.4
+numpy==1.24.3
+
+# Financial calculations
+scipy==1.11.4
+scikit-learn==1.3.2
+
+# Utilities
+pydantic==2.5.0
+pytest==7.4.3
+black==23.11.0
+
+# Optional: For advanced visualizations
+plotly==5.17.0
+matplotlib==3.8.2
+
+# Notes:
+# - yfinance: Fetch real-time stock data from Yahoo Finance
+# - Streamlit 1.38+ for latest UI components
+# - Use Python 3.9+ for optimal compatibility
+# - For NSE stocks, use .NS suffix (e.g., RELIANCE.NS, TCS.NS)
+# - See README.md for setup and usage instructions
