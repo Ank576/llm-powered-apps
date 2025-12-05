@@ -11,8 +11,7 @@
 
 ## What's Inside?
 
-This monorepo contains *65 production-ready LLM applications** designed for modern financial operations:
-
++66 production-ready LLM applications
 ### 1.  **[Financial Goal Tracker](./financial-goal-tracker)**
 
 **Smart investment planning with AI-powered asset allocation**
@@ -98,6 +97,19 @@ This monorepo contains *65 production-ready LLM applications** designed for mode
 *    📊 JSON-structured credit insights
 
 **Compliance:** RBI Digital Lending Guidelines, Credit Information Bureau (India) Limited (CIBIL) standards
+
+### 7. 📈 [Value Stock Finder](./value-stock-finder)**
+
+**AI-powered stock valuation and fundamental analysis tool**
+
+- 📈 Graham Number intrinsic value calculation
+- 📑 Valuation metrics (P/E, P/B, P/S ratios)
+- 📊 ROE, ROA, and Debt-to-Equity analysis
+- 📈 Valuation scoring (0-100)
+- 💪 Real-time stock screening for undervalued opportunities
+- 🔍 Personalized investment filter criteria
+
+**Compliance:** Educational fintech tool for value investing learning
 
 
 ## 🚀 Quick Start
