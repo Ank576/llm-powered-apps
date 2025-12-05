@@ -1,6 +1,6 @@
 # 💸 Credit Score Optimizer
 
-**Educational LLM-powered fintech application** built with Streamlit and Perplexity API. Demonstrates personalized credit improvement tips based on user financial profiles and RBI (Reserve Bank of India) credit guidelines.
+**Educational LLM-powered fintech application** built with Streamlit and Perplexity API. Demonstrates personalized credit improvement tips based on user financial profiles and RBI (Reserve Bank of India) credit guidelines. Created by Ankit Saxena, for educational purpose only 
 
 ---
 
