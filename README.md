@@ -11,8 +11,7 @@
 
 ## What's Inside?
 
-+67  production-ready LLM applications
-### 1.  **[Financial Goal Tracker](./financial-goal-tracker)**
++68 production-ready LLM applications
 
 **Smart investment planning with AI-powered asset allocation**
 
@@ -143,6 +142,23 @@
 **Features:** NSE stock analysis, Real-time market data integration, LLM-powered insights generation, Portfolio metrics dashboard, Risk assessment & rebalancing recommendations
 
 **Compliance:** Educational fintech tool for learning investment analysis techniques
+
+### 10. 📊 [Chart Pattern Analyzer](./chart-pattern-analyzer)
+
+**LLM-powered technical analysis with real-time chart pattern detection**
+
+* 📈 Multi-timeframe analysis (1 min to monthly)
+* 🔍 Breakout pattern identification with volume confirmation
+* 📉 Support & resistance level detection
+* 💡 AI-powered buy/sell recommendations (Perplexity API)
+* 📊 Real-time NSE market data integration
+* ⚡ Technical indicators (RSI, MACD, Bollinger Bands)
+* 🎯 Pattern reliability scoring
+* 📋 Searchable stock selection with sector filtering
+
+**Features:** Pattern scanning across multiple timeframes, Confluence analysis (multi-timeframe confirmation), Volume profile analysis, Correlation matrix for sector analysis, Risk/reward ratio calculation
+
+**Compliance:** Educational technical analysis tool for learning chart pattern recognition
 
 ## 🚀 Quick Start
 
