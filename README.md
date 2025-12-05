@@ -13,7 +13,7 @@
 
 This monorepo contains *65 production-ready LLM applications** designed for modern financial operations:
 
-### 1. ** [Financial Goal Tracker](./financial-goal-tracker)**
+### 1.  **[Financial Goal Tracker](./financial-goal-tracker)**
 
 **Smart investment planning with AI-powered asset allocation**
 
@@ -28,7 +28,7 @@ This monorepo contains *65 production-ready LLM applications** designed for mode
 
 ---
 
-### 2. ** [BNPL Eligibility Checker](./bnpl-eligibility-checker)**
+### 2.  **[BNPL Eligibility Checker](./bnpl-eligibility-checker)**
 
 **RBI-compliant Buy Now Pay Later eligibility assessment engine**
 
@@ -43,7 +43,7 @@ This monorepo contains *65 production-ready LLM applications** designed for mode
 
 ---
 
-### 3. ** [Fair Practices Auditor](./fair-practices-auditor)**
+### 3.  **[Fair Practices Auditor](./fair-practices-auditor)**
 
 **RBI Fair Practices Code compliance validator for loan terms**
 
