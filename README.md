@@ -11,7 +11,7 @@
 
 ## What's Inside?
 
-+66 production-ready LLM applications
++67  production-ready LLM applications
 ### 1.  **[Financial Goal Tracker](./financial-goal-tracker)**
 
 **Smart investment planning with AI-powered asset allocation**
@@ -127,6 +127,22 @@
 **Features:** Market condition analysis (Bull/Bear/Sideways), Risk profile filtering (Conservative/Moderate/Aggressive), Sector interdependency analysis, JSON-structured output
 
 **Compliance:** Educational fintech tool for portfolio management learning
+
+### 9. 🤖 [AI-Powered Stock Recommendation Engine](./ai-stock-recommendation-engine)
+
+**AI-powered portfolio analysis with LLM-generated buy/sell/hold recommendations**
+
+* 🎯 Portfolio input: 5 stocks with custom percentage allocations
+* 💡 AI-powered buy/sell/hold recommendations (Perplexity API)
+* ⚖️ Portfolio rebalancing (60/30/10 allocation model)
+* 🔍 Tax-loss harvesting opportunity identification
+* 📊 Sector overlap and concentration risk detection
+* 📈 Technical analysis (RSI, momentum calculations)
+* 🧠 Machine learning insights with correlation analysis
+
+**Features:** NSE stock analysis, Real-time market data integration, LLM-powered insights generation, Portfolio metrics dashboard, Risk assessment & rebalancing recommendations
+
+**Compliance:** Educational fintech tool for learning investment analysis techniques
 
 ## 🚀 Quick Start
 
