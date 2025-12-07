@@ -11,7 +11,7 @@
 
 ## What's Inside?
 
-production-ready LLM applications
++69 production-ready LLM applications
 
 ### 1. **[Financial Goal Tracker](./financial-goal-tracker)**
 
@@ -161,6 +161,23 @@ production-ready LLM applications
 **Features:** Pattern scanning across multiple timeframes, Confluence analysis (multi-timeframe confirmation), Volume profile analysis, Correlation matrix for sector analysis, Risk/reward ratio calculation
 
 **Compliance:** Educational technical analysis tool for learning chart pattern recognition
+
+### 11. 💰 [Dividend Income Screener](./dividend-income-screener)
+
+**AI-powered dividend portfolio analysis with tax-efficient income targeting**
+
+* 🎯 Monthly income targeting (₹5K-₹200K)
+* 📊 Sector-wise dividend stock screening (5 sectors)
+* 📉 Dividend yield range selection (3-10%+)
+* ✅ Consistency filter for 5+ year dividend payers
+* 📋 Portfolio composition with equal-weight allocation
+* 💰 Tax impact calculator (India FY 2024-25 slabs)
+* 🤖 LLM-powered recommendations (Perplexity API)
+* 📊 Income coverage analytics
+
+**Features:** 20+ NSE dividend stocks database, Real-time yield data, Tax slab integration, Portfolio rebalancing suggestions, Income gap analysis, After-tax income calculations
+
+**Compliance:** Educational tool for learning dividend investing - Not investment advice
 
 ## 🚀 Quick Start
 
