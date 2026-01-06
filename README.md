@@ -367,6 +367,22 @@ All apps use **Perplexity's sonar-pro model** for:
 
 ---
 
+### 12. 💳 [Credit Score Simulator](./credit-score-simulator)**
+
+**AI-Powered Credit Score Impact Analyzer**
+
+- 📊 Real-time credit score impact visualization
+- 💰 Scenario-based financial behavior simulation  
+- 🎯 Payment history & credit utilization analysis
+- 💡 RBI-compliant personalized recommendations
+- 🔮 Score improvement predictions
+- 📈 Credit factor weightage breakdown
+
+**Features:** Interactive dashboard with 3 analysis tabs (Impact Factors, Scenario Planning, Recommendations), Real-time score calculations, Payment behavior analysis, RBI/SEBI compliance
+
+**Compliance:** Educational tool for credit score understanding - Not investment advice
+
+---
 ## 🚀 Stay Tuned for More Apps!
 
 **Upcoming in Pipeline:**
