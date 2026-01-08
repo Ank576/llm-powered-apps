@@ -382,6 +382,31 @@ All apps use **Perplexity's sonar-pro model** for:
 
 **Compliance:** Educational tool for credit score understanding - Not investment advice
 
+### 13. 💰 [Mutual Fund Recommendation Engine](./mutual-fund-recommendation-engine)**
+
+**SEBI-Compliant AI-Powered Mutual Fund Analyzer**
+
+*   •  
+    🎯 Risk-appetite profiling with questionnaire
+*   •  
+    📊 Investment horizon analysis (Short-term, Medium-term, Long-term)
+*   •  
+    💰 Financial goal matching engine
+*   •  
+    🤖 LLM-powered fund recommendations based on prospectus analysis
+*   •  
+    📈 Fund characteristics analysis (NAV, AUM, expense ratio, returns)
+*   •  
+    ⚠️ Risk metrics evaluation (Standard Deviation, Sharpe Ratio, Sortino Ratio)
+*   •  
+    🌍 Asset allocation recommendations
+*   •  
+    📋 SEBI-compliant investment disclosures
+
+**Features:** Risk questionnaire with scoring system, Fund database integration with real-time NAV data, Portfolio composition recommendations, Tax implication analysis (Dividend distribution tax, capital gains), Regulatory compliance checker (SEBI mutual fund regulations), Risk-return trade-off analysis, Comparison with benchmark indices (Sensex, Nifty)
+
+**Compliance:** SEBI Mutual Fund Regulations, AMFI guidelines, Know Your Customer (KYC) standards
+
 ---
 ## 🚀 Stay Tuned for More Apps!
 
